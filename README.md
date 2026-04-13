@@ -14,7 +14,7 @@ The goal is to:
 
 ---
 
-## 📂 Dataset
+## 📂 Dataset - https://www.kaggle.com/datasets/mexwell/smart-home-energy-consumption
 
 The dataset contains smart home energy-related attributes such as:
 
